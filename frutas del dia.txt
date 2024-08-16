@@ -1,4 +1,5 @@
 arandanos
 melocoton
-resa
+fresa
 platano
+guayaba
